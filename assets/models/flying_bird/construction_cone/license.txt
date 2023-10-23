@@ -1,0 +1,11 @@
+Model Information:
+* title:	Construction Cone
+* source:	https://sketchfab.com/3d-models/construction-cone-a11774af8f844018b4cbd8dc8260b226
+* author:	rvnartsite (https://sketchfab.com/rvnartsite)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Construction Cone" (https://sketchfab.com/3d-models/construction-cone-a11774af8f844018b4cbd8dc8260b226) by rvnartsite (https://sketchfab.com/rvnartsite) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

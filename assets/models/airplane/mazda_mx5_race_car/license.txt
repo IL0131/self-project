@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mazda MX5 Race Car
+* source:	https://sketchfab.com/3d-models/mazda-mx5-race-car-0274225dde57412289e22a2f0febd847
+* author:	Peter Stephan (https://sketchfab.com/Peter.Stephan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mazda MX5 Race Car" (https://sketchfab.com/3d-models/mazda-mx5-race-car-0274225dde57412289e22a2f0febd847) by Peter Stephan (https://sketchfab.com/Peter.Stephan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

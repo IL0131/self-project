@@ -1,0 +1,11 @@
+Model Information:
+* title:	Track
+* source:	https://sketchfab.com/3d-models/track-5f5e9454fd59436e8d0dd38df9ec83c4
+* author:	Mauro3D (https://sketchfab.com/maurogsw)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Track" (https://sketchfab.com/3d-models/track-5f5e9454fd59436e8d0dd38df9ec83c4) by Mauro3D (https://sketchfab.com/maurogsw) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
